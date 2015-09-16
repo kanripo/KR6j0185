@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 仁王般若陀羅尼釋
+#+DATE: 2015-08-30 20:27:28.951757
+#+PROPERTY: JUAN 0
