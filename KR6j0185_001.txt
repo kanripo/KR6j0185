@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:28.758714
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:30
 #+TITLE: 仁王般若陀羅尼釋
 #+PROPERTY: CBETA_ID T19n0996
 #+PROPERTY: ID KR6j0185
